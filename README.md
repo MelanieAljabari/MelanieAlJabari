@@ -167,6 +167,29 @@ I'm particularly interested in organizations where cybersecurity protects critic
 
 *Bringing critical thinking, investigative experience, and a commitment to continuous learning into cybersecurity.*## Hi there 👋
 
+---
+
+### 🏥 Surgical Robotics Cybersecurity Capstone | ARGUS
+
+**Healthcare Cybersecurity | OT Security | Threat Detection | Incident Response**
+
+Developed as part of a collaborative cybersecurity capstone through WMCAT/NextCISO Academy.
+
+Our Delta 2 team investigated a simulated ransomware attack affecting a Stryker Mako surgical robotics workflow.
+
+**Project highlights:**
+- Analyzed ransomware threats to surgical robotics.
+- Explored independent threat detection using Raspberry Pi sensors.
+- Examined AWS IoT Core, CloudWatch, Sumo Logic, and Grafana.
+- Researched healthcare threat intelligence and security governance.
+- Participated in incident-response planning as Communications Lead.
+- Documented proposed defenses, architecture, and simulation limitations.
+
+**Skills:** Healthcare Cybersecurity, Threat Modeling, OT Security,
+Incident Response, Security Monitoring, Risk Assessment.
+
+🔗 [Explore My Surgical Robotics Cybersecurity Capstone](https://github.com/melaniealjabari/Surgical-Robotics-Cybersecurity-Capstone)
+
 <!--
 **MelanieAljabari/MelanieAlJabari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
